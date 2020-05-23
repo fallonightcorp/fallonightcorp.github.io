@@ -6,11 +6,19 @@ body {
   font-family: Bender;
   height: 100%;
   background-image: url("game_background_1.png");
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-position: center;
+  background-attachment: fixed;
+  margin: 0 auto;
 }
 .grey {
   color: grey;
+}
+.dark_green {
+  color: rgb(40, 129, 47);
+}
+.lime {
+  color: rgb(123, 255, 0);
 }
 .wrapper {
   min-height: 100%;
@@ -73,7 +81,7 @@ a:hover {
 .container_head {
   max-width: 1024px;
   margin: 0px auto;
-  padding: 13px 0;
+  padding: 9px 0;
 }
 .head_row {
 }
@@ -133,7 +141,7 @@ a:hover {
 .footer_row {
   display: flex;
   flex-direction: column;
-  height: 65px;
+  height: 40px;
   justify-content: center;
   align-items: center;
 }
@@ -144,5 +152,47 @@ a:hover {
   color: black;
 }
 .footer_text a:hover {
+  text-decoration: underline;
+}
+/* Privacy Policy*/
+.PrivacyPolicy,
+.Info,
+.LogData,
+.Cookies,
+.Service,
+.Security,
+.Links,
+.ChildrenPrivacy,
+.Changes,
+.Contact {
+  background-color: #f5f5f560;
+  font-family: Microsoft New Tai Lue;
+  color: black;
+  padding: 10px 10px 10px 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  margin: 10px 50px 10px 50px;
+}
+.PrivacyPolicy p {
+  text-align: start;
+  margin: 0 0 10px 0;
+}
+.PrivacyPolicy li,
+.Info li,
+.LogData li,
+.Cookies li,
+.Service li,
+.Security li,
+.Links li,
+.ChildrenPrivacy li,
+.Changes li,
+.Contact li {
+  margin: 0 0 1px 0;
+  text-align: justify;
+}
+.Contact a:hover,
+.Info a:hover {
   text-decoration: underline;
 }
