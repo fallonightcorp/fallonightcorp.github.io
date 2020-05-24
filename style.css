@@ -1,3 +1,12 @@
+@font-face {
+  font-family: "Bender";
+  src: local("Bender Bold"), local("Bender-Bold"),
+    url("benderbold.woff2") format("woff2"),
+    url("benderbold.woff") format("woff"),
+    url("benderbold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
 * {
   margin: 0;
 }
@@ -6,7 +15,7 @@ body {
   font-family: Bender;
   height: 100%;
   background-image: url("game_background_1.png");
-  background-repeat: repeat;
+  background-repeat: repeat-x;
   background-position: center;
   background-attachment: fixed;
   margin: 0 auto;
