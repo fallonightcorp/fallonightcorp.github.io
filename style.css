@@ -47,6 +47,12 @@ a {
   transition-duration: 0.15s;
   text-decoration: none;
 }
+.NamesDonaters a {
+  color: rgb(185, 185, 185);
+  transition-property: color;
+  transition-duration: 0.15s;
+  text-decoration: none;
+}
 button,
 button:visited,
 button:focus,
@@ -85,6 +91,9 @@ button:active {
 }
 a:hover {
   color: black;
+}
+.NamesDonaters a:hover {
+  color: rgb(255, 255, 255);
 }
 
 .container_head {
@@ -145,8 +154,7 @@ a:hover {
   align-items: center;
   margin: 0 0 30px 0;
 }
-.container_footer {
-}
+
 .footer_row {
   display: flex;
   flex-direction: column;
@@ -184,9 +192,26 @@ a:hover {
   align-content: center;
   margin: 10px 50px 10px 50px;
 }
+.NamesDonaters {
+  background-color: #1d1818d2;
+  font-family: Microsoft New Tai Lue;
+  color: black;
+  padding: 10px 10px 10px 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  margin: 10px 50px 10px 50px;
+}
 .PrivacyPolicy p {
   text-align: start;
   margin: 0 0 10px 0;
+}
+.Donaters1 p {
+  text-align: center;
+  font-size: 25px;
+  margin: 20px 0 0 0;
+  font-family: Microsoft New Tai Lue;
 }
 .PrivacyPolicy li,
 .Info li,
@@ -197,9 +222,39 @@ a:hover {
 .Links li,
 .ChildrenPrivacy li,
 .Changes li,
-.Contact li {
+.Contact li,
+.NamesDonaters li {
   margin: 0 0 1px 0;
   text-align: justify;
+}
+.LinkDonationAlerts {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.LinkDonationAlerts b {
+  text-align: center;
+  background-color: #1d1818d2;
+  padding: 10px 10px 10px 10px;
+}
+.Thanks {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.Thanks b {
+  background-color: #1d1818d2;
+  text-align: center;
+  padding: 10px 10px 10px 10px;
+  color: rgb(255, 255, 255);
+}
+.LinkDonationAlerts a {
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
+.LinkDonationAlerts a:hover {
+  color: rgb(207, 207, 207);
 }
 .Contact a:hover,
 .Info a:hover {
