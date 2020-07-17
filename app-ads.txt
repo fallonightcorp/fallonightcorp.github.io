@@ -1,3 +1,4 @@
+#Last updated July 7th 2020
 #Appodeal
 appodeal.com, 47205, DIRECT
 #BidMachine
@@ -401,6 +402,9 @@ pubmatic.com, 81564, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156538, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 13510, RESELLER
 smartadserver.com, 2441, RESELLER
+spotx.tv, 244525, RESELLER,7842df1d2fe2db34
+spotxchange.com, 244525, RESELLER, 7842df1d2fe2db34
+improvedigital.com, 1057, RESELLER
 #Index Exchange
 indexexchange.com, 186081, RESELLER
 #AdServMe
@@ -556,6 +560,7 @@ appnexus.com, 8804, RESELLER, f5ab79cb980f11d1
 spotxchange.com, 135285, RESELLER, 7842df1d2fe2db34
 spotx.tv, 135285, RESELLER, 7842df1d2fe2db34
 rubiconproject.com, 14558, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 20854, RESELLER, 0bfd66d529a55807
 #AdMixer
 admixer.net, 6477248d-9798-4581-9bfd-2e83e6d35cd3, RESELLER
 onetag.com, 59d216e971852f2, RESELLER
