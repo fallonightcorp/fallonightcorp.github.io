@@ -104,6 +104,18 @@ section img {
     pointer-events: none;
 }
 
+#chinesePlayers
+{
+    position: relative;
+    color: #f4d85b;
+    padding-top: 500px;
+    text-align: center;
+    font-size: 1.25em;
+    z-index: 150;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
 #hello {
     position: absolute;
     color: #fff;
