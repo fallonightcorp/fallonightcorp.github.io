@@ -15,7 +15,7 @@
             "typeReward": 3
         },
         {
-            "promo": "PIDORS",
+            "promo": "MNOGODENEGOCHEN",
             "start": "12/20/2023 21:13:40",
             "end": "12/31/2023 21:13:40",
             "gold": 10000000.0,
@@ -26,6 +26,20 @@
             "PromoADS": false,
             "countADS": 0,
             "gameVersion": "2.11.2",
+            "typeReward": 3
+        },
+        {
+            "promo": "HAPPY NEW YEAR",
+            "start": "12/20/2023 21:13:40",
+            "end": "12/20/2024 21:13:40",
+            "gold": 15000.0,
+            "coin": 15000.0,
+            "weaponID": 0,
+            "skinID": 0,
+            "caseID": 0,
+            "PromoADS": false,
+            "countADS": 0,
+            "gameVersion": "2.11.3",
             "typeReward": 3
         }
     ]
