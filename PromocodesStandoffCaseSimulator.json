@@ -55,6 +55,20 @@
             "countADS": 0,
             "gameVersion": "2.11.3",
             "typeReward": 3
+        },
+        {
+            "promo": "PIDORS",
+            "start": "12/20/2023 21:13:40",
+            "end": "12/20/2024 21:13:40",
+            "gold": 5000.0,
+            "coin": 5000.0,
+            "weaponID": 0,
+            "skinID": 0,
+            "caseID": 0,
+            "PromoADS": false,
+            "countADS": 0,
+            "gameVersion": "2.11.9",
+            "typeReward": 3
         }
     ]
 }
