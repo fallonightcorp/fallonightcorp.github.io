@@ -99,11 +99,11 @@
             "typeReward": 3
         },
         {
-            "promo": "SPECIALGIFT0001",
+            "promo": "WIPE2024",
             "start": "12/20/2023 21:13:40",
             "end": "12/20/2024 21:13:40",
-            "gold": 1500000.0,
-            "coin": 1500000.0,
+            "gold": 25000.0,
+            "coin": 25000.0,
             "weaponID": 0,
             "skinID": 0,
             "caseID": 0,
