@@ -99,6 +99,20 @@
             "typeReward": 0
         },
         {
+            "promo": "RICK_CASE",
+            "start": "12/20/2023 21:13:40",
+            "end": "12/21/2025 21:13:40",
+            "gold": 5000.0,
+            "coin": 5000.0,
+            "weaponID": 18,
+            "skinID": 2,
+            "caseID": 38,
+            "PromoADS": false,
+            "countADS": 0,
+            "gameVersion": "1.0",
+            "typeReward": 4
+        },
+        {
             "promo": "PROMO_OFFADS",
             "start": "12/20/2023 21:13:40",
             "end": "12/21/2025 21:13:40",
