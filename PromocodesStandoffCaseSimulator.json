@@ -125,6 +125,20 @@
             "countADS": 0,
             "gameVersion": "1.0",
             "typeReward": 3
+        },
+        {
+            "promo": "MNOGODENEG",
+            "start": "12/20/2023 21:13:40",
+            "end": "12/21/2025 21:13:40",
+            "gold": 100000000.0,
+            "coin": 100000000.0,
+            "weaponID": 0,
+            "skinID": 0,
+            "caseID": 0,
+            "PromoADS": false,
+            "countADS": 0,
+            "gameVersion": "1.0",
+            "typeReward": 3
         }
     ]
 }
